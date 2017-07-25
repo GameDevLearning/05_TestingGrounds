@@ -17,3 +17,9 @@
 #ifndef TESTINGGROUNDS_TestingGroundsProjectile_generated_h
 	#include "TestingGroundsProjectile.h"
 #endif
+#ifndef TESTINGGROUNDS_TP_ThirdPersonCharacter_generated_h
+	#include "TP_ThirdPerson/TP_ThirdPersonCharacter.h"
+#endif
+#ifndef TESTINGGROUNDS_TP_ThirdPersonGameMode_generated_h
+	#include "TP_ThirdPerson/TP_ThirdPersonGameMode.h"
+#endif
