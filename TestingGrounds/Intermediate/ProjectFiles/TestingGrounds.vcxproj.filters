@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\TestingGrounds.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{976AAB94-7F31-46F1-A23E-DD79D06B0568}</UniqueIdentifier>
+			<UniqueIdentifier>{49F33C00-A305-4B92-975F-E93371381F4D}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\TestingGrounds.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{D0877CFF-9130-4C46-81D1-280F59A38B77}</UniqueIdentifier>
+			<UniqueIdentifier>{66355E53-790E-4082-8177-3B4D9E31AB69}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -31,7 +31,7 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\TestingGrounds">
-			<UniqueIdentifier>{6347D086-8D42-41D3-A4A2-A54D92620C1D}</UniqueIdentifier>
+			<UniqueIdentifier>{469D3696-0102-4301-8D81-AB8C46013DDB}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\TestingGrounds\TestingGrounds.Build.cs">
 			<Filter>Source\TestingGrounds</Filter>
@@ -67,7 +67,7 @@
 			<Filter>Source\TestingGrounds</Filter>
 		</ClInclude >
 		<Filter Include="Source\TestingGrounds\TP_ThirdPerson">
-			<UniqueIdentifier>{FEFAD7C9-4F6C-4B36-934C-0F18E3F248C3}</UniqueIdentifier>
+			<UniqueIdentifier>{A217E569-6D85-4E89-AF12-5FB0588261D6}</UniqueIdentifier>
 		</Filter>
 		<ClInclude Include="..\..\Source\TestingGrounds\TP_ThirdPerson\TP_ThirdPerson.h">
 			<Filter>Source\TestingGrounds\TP_ThirdPerson</Filter>
