@@ -1,3 +1,0 @@
-C:\Users\Petrus\Documents\Unreal Course\05_TestingGrounds\TestingGrounds\Source\TestingGrounds\TestingGrounds.Build.cs
-C:\Users\Petrus\Documents\Unreal Course\05_TestingGrounds\TestingGrounds\Source\TestingGrounds.Target.cs
-C:\Users\Petrus\Documents\Unreal Course\05_TestingGrounds\TestingGrounds\Source\TestingGroundsEditor.Target.cs
